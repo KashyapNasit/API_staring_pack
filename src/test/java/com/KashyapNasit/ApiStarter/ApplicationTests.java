@@ -1,10 +1,10 @@
-package com.dean.Transcript;
+package com.KashyapNasit.ApiStarter;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TranscriptApplicationTests {
+class ApplicationTests {
 
 	@Test
 	void contextLoads() {

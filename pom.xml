@@ -8,11 +8,11 @@
 		<version>2.3.1.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.dean</groupId>
-	<artifactId>Transcript</artifactId>
+	<groupId>com.KashyapNasit</groupId>
+	<artifactId>ApiStarter</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Transcript</name>
-	<description>Transcript API</description>
+	<name>ApiStarter</name>
+	<description>ApiStarter</description>
 
 	<properties>
 		<java.version>1.8</java.version>

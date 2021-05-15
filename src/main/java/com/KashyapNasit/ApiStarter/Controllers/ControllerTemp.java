@@ -1,6 +1,6 @@
-package com.dean.Transcript.Controllers;
+package com.KashyapNasit.ApiStarter.Controllers;
 
-import com.dean.Transcript.Service.ServiceInThis;
+import com.KashyapNasit.ApiStarter.Service.ServiceInThis;
 import com.google.gson.JsonObject;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
